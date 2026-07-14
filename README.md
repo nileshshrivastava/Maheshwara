@@ -127,7 +127,7 @@ MIT License
 
 ## Founder
 
-Nilesh Shrivastava
+Nilesh Kumar Shrivastava
 
 ---
 
